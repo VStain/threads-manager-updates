@@ -17,6 +17,12 @@
 
 Threads Manager помогает вести выбранные аккаунты Threads через браузерные профили AdsPower. Подготовка публикаций, расписание, рабочие режимы и мониторинг собраны в одном месте.
 
+### Почему удобно
+
+- **Один рабочий экран:** аккаунты, публикации, расписание и результаты доступны в одном приложении.
+- **Меньше лишнего в списках:** можно сосредоточиться на выбранных аккаунтах.
+- **Время каждого аккаунта учтено:** задания и публикации планируются с его часовым поясом.
+
 ### Возможности
 
 | Раздел | Что можно делать |
@@ -50,6 +56,12 @@ PRO активируется файлом лицензии, полученным
 ## English
 
 Threads Manager brings selected Threads accounts, publishing plans, scheduled tasks and activity monitoring together in a Windows desktop app. It works with AdsPower browser profiles.
+
+### Why use it
+
+- **One workspace:** accounts, posts, schedules and results live in one app.
+- **Focus on selected accounts:** keep unrelated profiles out of your working views.
+- **Account time zones:** plan tasks and posts using the time zone of each account.
 
 ### Features
 
