@@ -2,4 +2,4 @@
 
 Приложение для работы с Threads: расписание, публикации и управление аккаунтами в одном окне.
 
-Публичная загрузка приложения временно приостановлена. По вопросам доступа и обновлений: [@Vintezo](https://t.me/Vintezo).
+[Скачать актуальную версию](https://github.com/VStain/threads-manager-updates/releases/latest) · Вопросы по доступу: [@Vintezo](https://t.me/Vintezo).
