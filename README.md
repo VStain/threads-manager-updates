@@ -31,13 +31,14 @@ Threads Manager помогает вести выбранные аккаунты 
 | **Публикации** | Готовить текст и фото, сохранять черновики, ставить публикации в очередь и работать с планами импорта и экспорта. |
 | **Расписание** | Планировать задания с учётом часового пояса каждого аккаунта. |
 | **Прогрев и комментарии** | Настраивать просмотр ленты и автокомментинг с лимитами и паузами. |
+| **Подписки по списку** | Планировать прохождение списка целевых профилей, следить за очередями и результатами каждого аккаунта. |
 | **Мониторинг** | Следить за состоянием выбранных аккаунтов, заданиями и результатами в журнале. |
 
 ### LITE и PRO
 
 | LITE | PRO |
 | --- | --- |
-| 2 выбранных аккаунта AdsPower | До 50 аккаунтов AdsPower |
+| До 8 выбранных аккаунтов AdsPower | До 50 аккаунтов AdsPower |
 
 PRO активируется файлом лицензии, полученным от владельца программы. Запрос на лицензию можно скачать прямо в приложении.
 
@@ -71,13 +72,14 @@ Threads Manager brings selected Threads accounts, publishing plans, scheduled ta
 | **Publishing** | Prepare text and photos, save drafts, queue posts, and import or export publication plans. |
 | **Schedule** | Plan tasks using each account’s time zone. |
 | **Feed activity and comments** | Configure feed browsing and auto commenting with limits and pauses. |
+| **Follow lists** | Plan visits to target profiles and track per-account queues and results. |
 | **Monitoring** | Follow selected accounts, tasks and results in the activity log. |
 
 ### LITE and PRO
 
 | LITE | PRO |
 | --- | --- |
-| 2 selected AdsPower accounts | Up to 50 AdsPower accounts |
+| Up to 8 selected AdsPower accounts | Up to 50 AdsPower accounts |
 
 PRO is activated with a license file issued by the app owner. You can download a license request from the app.
 
