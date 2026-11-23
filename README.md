@@ -50,6 +50,20 @@
 
 MAX активируется файлом лицензии от владельца программы. Запрос на лицензию можно скачать прямо в приложении.
 
+### Минимальные требования
+
+| | |
+| --- | --- |
+| **Система** | Windows 10 или 11, 64-бит |
+| **Видеокарта** | NVIDIA с 8 ГБ видеопамяти — от RTX 4060 |
+| **Оперативная память** | 16 ГБ |
+| **Место на диске** | около 5 ГБ |
+| **Программы** | AdsPower (платный тариф с Local API) и Ollama с локальной моделью пилота |
+| **Для комментариев** | свой ключ OpenAI или OpenRouter |
+| **Интернет** | постоянное подключение |
+
+Видеокарта нужна пилоту: он работает на вашем компьютере и сам решает, что нажать на странице.
+
 ### Начало работы
 
 1. [Скачайте последнюю версию для Windows](https://github.com/VStain/threads-manager-updates/releases/latest) и установите приложение.
@@ -93,6 +107,20 @@ Manager сообщает о доступном обновлении — когд
 | Working AdsPower accounts | up to **5** | up to **50** |
 
 MAX is activated with a license file issued by the app owner. You can download a license request from the app.
+
+### Minimum requirements
+
+| | |
+| --- | --- |
+| **System** | Windows 10 or 11, 64-bit |
+| **Graphics card** | NVIDIA with 8 GB of video memory — RTX 4060 or better |
+| **Memory** | 16 GB |
+| **Disk space** | about 5 GB |
+| **Software** | AdsPower (paid plan with Local API) and Ollama with the local pilot model |
+| **For comments** | your own OpenAI or OpenRouter key |
+| **Internet** | always-on connection |
+
+The graphics card is for the pilot: it runs on your computer and decides what to press on the page.
 
 ### Get started
 
