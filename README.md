@@ -1,13 +1,18 @@
 <div align="center">
 
+<img src="assets/icon-256.png" width="120" alt="Threads Manager" />
+
 # Threads Manager
 
-**Аккаунты Threads, публикации и расписание — в одном приложении для Windows.**  
+**Аккаунты Threads, публикации и расписание — в одном приложении для Windows.**
 **Threads accounts, publishing and scheduling — in one Windows app.**
 
-[Русский](#русский) · [English](#english)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-1f6feb?style=flat-square)
+![Платформа](https://img.shields.io/badge/x64%20%C2%B7%20ARM64-20track-30363d?style=flat-square)
 
-[Скачать / Download](https://github.com/VStain/threads-manager-updates/releases/latest) · [Все выпуски / All releases](https://github.com/VStain/threads-manager-updates/releases)
+[**⬇ Скачать / Download**](https://github.com/VStain/threads-manager-updates/releases/latest) · [Все выпуски / All releases](https://github.com/VStain/threads-manager-updates/releases)
+
+[Русский](#русский) · [English](#english)
 
 </div>
 
@@ -15,40 +20,43 @@
 
 ## Русский
 
-Threads Manager помогает вести выбранные аккаунты Threads через браузерные профили AdsPower. Подготовка публикаций, расписание, рабочие режимы и мониторинг собраны в одном месте.
+**Threads Manager** ведёт выбранные аккаунты Threads через браузерные профили AdsPower. Подготовка публикаций, расписание, прогрев, комментарии и мониторинг — в одном окне.
 
 ### Почему удобно
 
-- **Один рабочий экран:** аккаунты, публикации, расписание и результаты доступны в одном приложении.
-- **Меньше лишнего в списках:** можно сосредоточиться на выбранных аккаунтах.
-- **Время каждого аккаунта учтено:** задания и публикации планируются с его часовым поясом.
+- **Один рабочий экран.** Аккаунты, публикации, расписание и результаты — в одном приложении, без десятка вкладок.
+- **Только нужные аккаунты.** В списках видно выбранное, лишнее не мешает.
+- **Своё время у каждого.** Задания и публикации планируются по часовому поясу конкретного аккаунта.
+- **Данные остаются у вас.** Всё хранится на вашем компьютере; ключи — в защищённом хранилище Windows.
 
 ### Возможности
 
 | Раздел | Что можно делать |
 | --- | --- |
-| **Аккаунты** | Подключать профили AdsPower, выбирать рабочие аккаунты и проверять доступ к Threads. |
-| **Публикации** | Готовить текст и фото, сохранять черновики, ставить публикации в очередь и работать с планами импорта и экспорта. |
+| **Аккаунты** | Подключать профили AdsPower, выбирать рабочие аккаунты, одной кнопкой проверять доступ к Threads. |
+| **Материалы** | Хранить фото, узнавать дубли, передавать снимки между аккаунтами. |
+| **Публикации** | Готовить текст и фото, сохранять черновики, ставить в очередь, импортировать и экспортировать планы. |
 | **Расписание** | Планировать задания с учётом часового пояса каждого аккаунта. |
+| **Сейчас** | Видеть, что происходит с аккаунтами прямо сейчас. |
 | **Прогрев и комментарии** | Настраивать просмотр ленты и автокомментинг с лимитами и паузами. |
-| **Подписки по списку** | Планировать прохождение списка целевых профилей, следить за очередями и результатами каждого аккаунта. |
-| **Мониторинг** | Следить за состоянием выбранных аккаунтов, заданиями и результатами в журнале. |
+| **Подписки по списку** | Проходить список целевых профилей, следить за очередью и результатом по каждому аккаунту. |
+| **Мониторинг** | Следить за состоянием аккаунтов, заданиями и результатами в журнале. |
 
-### LITE и PRO
+### LITE и MAX
 
-| LITE | PRO |
-| --- | --- |
-| До 8 выбранных аккаунтов AdsPower | До 50 аккаунтов AdsPower |
+| | LITE | MAX |
+| --- | --- | --- |
+| Рабочих аккаунтов AdsPower | до **5** | до **50** |
 
-PRO активируется файлом лицензии, полученным от владельца программы. Запрос на лицензию можно скачать прямо в приложении.
+MAX активируется файлом лицензии от владельца программы. Запрос на лицензию можно скачать прямо в приложении.
 
 ### Начало работы
 
 1. [Скачайте последнюю версию для Windows](https://github.com/VStain/threads-manager-updates/releases/latest) и установите приложение.
 2. Подключите AdsPower и выберите профили, в которых выполнен вход в Threads.
-3. Настройте аккаунты и используйте нужные разделы Manager.
+3. Настройте аккаунты и откройте нужные разделы.
 
-Данные приложения хранятся на вашем компьютере. Manager сообщает о доступном обновлении; скачивание и установку выбираете вы.
+Manager сообщает о доступном обновлении — когда скачать и установить, решаете вы.
 
 По вопросам доступа и лицензии: [@Vintezo в Telegram](https://t.me/Vintezo).
 
@@ -56,39 +64,42 @@ PRO активируется файлом лицензии, полученным
 
 ## English
 
-Threads Manager brings selected Threads accounts, publishing plans, scheduled tasks and activity monitoring together in a Windows desktop app. It works with AdsPower browser profiles.
+**Threads Manager** runs selected Threads accounts through AdsPower browser profiles. Publishing, scheduling, warm-up, comments and monitoring live in one window.
 
 ### Why use it
 
-- **One workspace:** accounts, posts, schedules and results live in one app.
-- **Focus on selected accounts:** keep unrelated profiles out of your working views.
-- **Account time zones:** plan tasks and posts using the time zone of each account.
+- **One workspace.** Accounts, posts, schedules and results in a single app — no dozen tabs.
+- **Only the accounts you need.** Your views show the selected profiles; the rest stays out of the way.
+- **Each account’s own time.** Tasks and posts are planned in each account’s time zone.
+- **Your data stays with you.** Everything is stored on your computer; keys live in protected Windows storage.
 
 ### Features
 
 | Area | What you can do |
 | --- | --- |
-| **Accounts** | Connect AdsPower profiles, select the accounts you work with and check Threads access. |
-| **Publishing** | Prepare text and photos, save drafts, queue posts, and import or export publication plans. |
+| **Accounts** | Connect AdsPower profiles, pick your working accounts, check Threads access in one click. |
+| **Library** | Keep photos, spot duplicates, hand images between accounts. |
+| **Publishing** | Prepare text and photos, save drafts, queue posts, import and export plans. |
 | **Schedule** | Plan tasks using each account’s time zone. |
-| **Feed activity and comments** | Configure feed browsing and auto commenting with limits and pauses. |
-| **Follow lists** | Plan visits to target profiles and track per-account queues and results. |
-| **Monitoring** | Follow selected accounts, tasks and results in the activity log. |
+| **Now** | See what each account is doing right now. |
+| **Warm-up & comments** | Configure feed browsing and auto-commenting with limits and pauses. |
+| **Follow lists** | Walk a list of target profiles and track per-account queues and results. |
+| **Monitoring** | Follow account state, tasks and results in the activity log. |
 
-### LITE and PRO
+### LITE and MAX
 
-| LITE | PRO |
-| --- | --- |
-| Up to 8 selected AdsPower accounts | Up to 50 AdsPower accounts |
+| | LITE | MAX |
+| --- | --- | --- |
+| Working AdsPower accounts | up to **5** | up to **50** |
 
-PRO is activated with a license file issued by the app owner. You can download a license request from the app.
+MAX is activated with a license file issued by the app owner. You can download a license request from the app.
 
 ### Get started
 
 1. [Download the latest Windows release](https://github.com/VStain/threads-manager-updates/releases/latest) and install it.
-2. Connect AdsPower and select browser profiles already signed in to Threads.
+2. Connect AdsPower and select profiles already signed in to Threads.
 3. Set up your accounts and open the sections you need.
 
-App data stays on your computer. Manager can notify you about an available update; you choose when to download and install it.
+Manager can notify you about an update; you choose when to download and install it.
 
-For access and licensing questions, contact [@Vintezo on Telegram](https://t.me/Vintezo).
+For access and licensing questions: [@Vintezo on Telegram](https://t.me/Vintezo).
