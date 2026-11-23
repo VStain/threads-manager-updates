@@ -8,7 +8,7 @@
 **Threads accounts, publishing and scheduling — in one Windows app.**
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-1f6feb?style=flat-square)
-![Платформа](https://img.shields.io/badge/x64%20%C2%B7%20ARM64-20track-30363d?style=flat-square)
+![Платформа](https://img.shields.io/badge/x64%20%C2%B7%20ARM64-30363d?style=flat-square)
 
 [**⬇ Скачать / Download**](https://github.com/VStain/threads-manager-updates/releases/latest) · [Все выпуски / All releases](https://github.com/VStain/threads-manager-updates/releases)
 
