@@ -56,9 +56,9 @@ MAX активируется файлом лицензии от владельц
 | --- | --- |
 | **Система** | Windows 10 или 11, 64-бит |
 | **Видеокарта** | NVIDIA с 8 ГБ видеопамяти — от RTX 4060 |
-| **Оперативная память** | 16 ГБ |
+| **Оперативная память** | от 12 ГБ |
 | **Место на диске** | около 5 ГБ |
-| **Программы** | AdsPower (платный тариф с Local API) |
+| **Программы** | AdsPower |
 | **Для комментариев** | свой ключ OpenAI или OpenRouter |
 
 ### Начало работы
@@ -111,9 +111,9 @@ MAX is activated with a license file issued by the app owner. You can download a
 | --- | --- |
 | **System** | Windows 10 or 11, 64-bit |
 | **Graphics card** | NVIDIA with 8 GB of video memory — RTX 4060 or better |
-| **Memory** | 16 GB |
+| **Memory** | 12 GB or more |
 | **Disk space** | about 5 GB |
-| **Software** | AdsPower (paid plan with Local API) |
+| **Software** | AdsPower |
 | **For comments** | your own OpenAI or OpenRouter key |
 
 ### Get started
