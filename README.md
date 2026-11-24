@@ -8,7 +8,7 @@
 **Threads accounts, publishing and scheduling — in one Windows app.**
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-1f6feb?style=flat-square)
-![Платформа](https://img.shields.io/badge/x64%20%C2%B7%20ARM64-30363d?style=flat-square)
+![Платформа](https://img.shields.io/badge/x64-30363d?style=flat-square)
 
 [**⬇ Скачать / Download**](https://github.com/VStain/threads-manager-updates/releases/latest) · [Все выпуски / All releases](https://github.com/VStain/threads-manager-updates/releases)
 
@@ -58,11 +58,8 @@ MAX активируется файлом лицензии от владельц
 | **Видеокарта** | NVIDIA с 8 ГБ видеопамяти — от RTX 4060 |
 | **Оперативная память** | 16 ГБ |
 | **Место на диске** | около 5 ГБ |
-| **Программы** | AdsPower (платный тариф с Local API) и Ollama с локальной моделью пилота |
+| **Программы** | AdsPower (платный тариф с Local API) |
 | **Для комментариев** | свой ключ OpenAI или OpenRouter |
-| **Интернет** | постоянное подключение |
-
-Видеокарта нужна пилоту: он работает на вашем компьютере и сам решает, что нажать на странице.
 
 ### Начало работы
 
@@ -116,11 +113,8 @@ MAX is activated with a license file issued by the app owner. You can download a
 | **Graphics card** | NVIDIA with 8 GB of video memory — RTX 4060 or better |
 | **Memory** | 16 GB |
 | **Disk space** | about 5 GB |
-| **Software** | AdsPower (paid plan with Local API) and Ollama with the local pilot model |
+| **Software** | AdsPower (paid plan with Local API) |
 | **For comments** | your own OpenAI or OpenRouter key |
-| **Internet** | always-on connection |
-
-The graphics card is for the pilot: it runs on your computer and decides what to press on the page.
 
 ### Get started
 
